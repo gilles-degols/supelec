@@ -1,0 +1,6 @@
+.idea
+venv/
+*.pyc
+work/.ipynb_checkpoints
+work/.local
+work/.cache
